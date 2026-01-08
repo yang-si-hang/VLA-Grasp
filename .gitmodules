@@ -1,0 +1,8 @@
+[submodule "third_party/act"]
+	path = third_party/act
+	url = https://github.com/yang-si-hang/act
+	branch = proj/grasp_soda
+[submodule "third_party/diffusion_policy"]
+	path = third_party/diffusion_policy
+	url = https://github.com/yang-si-hang/diffusion_policy.git
+	branch = proj/grasp_soda
