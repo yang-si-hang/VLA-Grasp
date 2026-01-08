@@ -6,3 +6,7 @@
 	path = third_party/diffusion_policy
 	url = https://github.com/yang-si-hang/diffusion_policy.git
 	branch = proj/grasp_soda
+[submodule "third_party/lerobot"]
+	path = third_party/lerobot
+	url = https://github.com/yang-si-hang/lerobot.git
+	branch = v0.4.2/proj/grasp_soda
